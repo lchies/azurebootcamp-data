@@ -13,6 +13,12 @@
         "Show": true
     },
     { 
+        "Name":"Porto Alegre",
+        "Folder":"portoalegre",
+        "WebsiteUrl":"http://globalazure-poa.azurewebsites.net/",
+        "Show": true
+    }
+    { 
         "Name":"Demo Site",
         "Folder":"Demo",
         "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
